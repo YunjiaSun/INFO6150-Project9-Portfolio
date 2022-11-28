@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Library Management Web",
+    "overview": "Developed library web pages with Django and implement librarian and user management functions.",
+    "sklls": "Django/Python"
+  },
+
+  {
+    "name": "Employee Management Web",
+    "overview": "Build RESTful API with Spring Boot and MySQL to handle HTTP requests and responses, created CRUD operations to fetch data with queries ",
+    "sklls": "SpringBoot/Java/React"
+  },
+
+  {
+    "name": "Movie Application",
+    "overview": "Developed movie website allows users to view the movie information and search the movie.",
+    "sklls": "HTML/CSS/JavaScript"
+  },
+
+  {
+    "name": "Hospital On-Wheels System",
+    "overview": "Developed library web pages with Django and implement librarian and user management functions.",
+    "sklls": "Java"
+  },
+
+  {
+    "name": "Number Guessing Game",
+    "overview": "Implement a guessing number game, allowing users to guess the number according to the prompt. ",
+    "sklls": "HTML/CSS/JavaScript"
+  },
+
+  {
+    "name": "Data Visualization Analysis",
+    "overview": "Provides water quality analysis reports for two water stations in California.",
+    "sklls": "Python/Pandas/Numpy"
+  }
+]
